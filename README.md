@@ -22,6 +22,5 @@ This project is a simple “Guess the Number” game where the user tries to gue
 
 ## Demo
 
-![Guess the Number Image](https://github.com/YourUsername/YourRepoName/raw/main/images/guess-the-number-demo.png)
+![Guess the Number Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Guess%20the%20Number/guessthenumber-img.png?raw=true)
 
-Translated with DeepL.com (free version)
